@@ -1,0 +1,47 @@
+[16:54:49] [Client thread/INFO]: Setting user: Player31
+[16:54:50] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:54:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Digital Adventure Mod
+[16:54:53] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:54:53] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[16:54:53] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:54:53] [Thread-7/INFO]: OpenAL initialized.
+[16:54:54] [Sound Library Loader/INFO]: Sound engine started
+[16:54:56] [Client thread/INFO]: Created: 512x512 textures-atlas
+[16:54:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Digital Adventure Mod
+[16:54:56] [Client thread/INFO]: SoundSystem shutting down...
+[16:54:56] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:54:56] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:54:56] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[16:54:56] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:54:56] [Thread-9/INFO]: OpenAL initialized.
+[16:54:57] [Sound Library Loader/INFO]: Sound engine started
+[16:54:58] [Client thread/INFO]: Created: 512x512 textures-atlas
+[16:55:04] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[16:55:04] [Server thread/INFO]: Generating keypair
+[16:55:04] [Server thread/INFO]: Converting map!
+[16:55:04] [Server thread/INFO]: Scanning folders...
+[16:55:04] [Server thread/INFO]: Total conversion count is 0
+[16:55:05] [Server thread/WARN]: Unable to find spawn biome
+[16:55:05] [Server thread/INFO]: Preparing start region for level 0
+[16:55:06] [Server thread/INFO]: Preparing spawn area: 11%
+[16:55:07] [Server thread/INFO]: Preparing spawn area: 28%
+[16:55:08] [Server thread/INFO]: Preparing spawn area: 47%
+[16:55:09] [Server thread/INFO]: Preparing spawn area: 64%
+[16:55:10] [Server thread/INFO]: Preparing spawn area: 83%
+[16:55:11] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:55:11] [Server thread/INFO]: Player31[local:E:2207d3f2] logged in with entity id 256 at (-8.5, 94.0, -8.5)
+[16:55:11] [Server thread/INFO]: Player31 joined the game
+[16:55:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2336ms behind, skipping 46 tick(s)
+[16:55:14] [Server thread/INFO]: Player31 has just earned the achievement [Taking Inventory]
+[16:55:14] [Client thread/INFO]: [CHAT] Player31 has just earned the achievement [Taking Inventory]
+[16:55:19] [Client thread/INFO]: Stopping!
+[16:55:19] [Client thread/INFO]: SoundSystem shutting down...
+[16:55:19] [Server thread/INFO]: Stopping server
+[16:55:19] [Server thread/INFO]: Saving players
+[16:55:19] [Server thread/INFO]: Saving worlds
+[16:55:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:55:19] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:55:19] [Client Shutdown Thread/INFO]: Stopping server
+[16:55:19] [Client Shutdown Thread/INFO]: Saving players
+[16:55:19] [Client Shutdown Thread/INFO]: Saving worlds
+[16:55:19] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World'/Overworld

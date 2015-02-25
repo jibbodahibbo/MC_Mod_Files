@@ -1,0 +1,31 @@
+package com.digitaleducationadventures.digimod;
+
+import com.digitaleducationadventures.digimod.init.DigiBlocks;
+
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+
+public class DigiTab extends CreativeTabs{
+
+	public DigiTab(int index, String label) {
+		super(index, label);
+		// TODO Auto-generated constructor stub
+		@Override
+		public Item getTabIconItem(){
+			return DigiBlocks.DigiBlock;
+		}
+	
+	}
+	
+	
+}
+
+
+
+/*public static CreativeTabs DigiTab = new CreativeTabs("DigitalAdventure"){
+	//Here we get the icon we are using for our creative tab!
+	@Override
+	public Item getTabIconItem(){
+		return new ItemStack(DigiBlocks.DigiBlock).getItem();
+		
+		};  */

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dm",
+  "name": "Digital Adventure Mod",
+  "description": "Digital Adventures brings you this MOD!",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "http://www.digitaleducationadventures.com",
+  "updateUrl": "",
+  "authorList": ["Jim, Digital Education Adventures"],
+  "credits": "Thanks Everybody!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

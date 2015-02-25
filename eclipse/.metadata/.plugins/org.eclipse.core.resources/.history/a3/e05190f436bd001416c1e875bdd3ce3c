@@ -1,0 +1,45 @@
+package com.digitaleducationadventures.digimod.init;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.client.Minecraft;
+import net.minecraft.client.resources.model.ModelResourceLocation;
+import net.minecraft.item.Item;
+import net.minecraftforge.fml.common.registry.GameRegistry;
+import com.digitaleducationadventures.digimod.DigiMod;
+import com.digitaleducationadventures.digimod.Reference;
+import com.digitaleducationadventures.digimod.blocks.DigiBlockProperties;
+
+public class DigiBlocks {
+
+	public static Block DigiBlock;
+	
+	public static void init()
+	{
+		
+		DigiBlock = new DigiBlockProperties(Material.rock).setUnlocalizedName("DigiBlock").setCreativeTab(DigiMod.DigiTab);
+		 
+	}
+	
+	public static void register(){
+		
+		GameRegistry.registerBlock(DigiBlock, DigiBlock.getUnlocalizedName().substring(5));
+		
+	}
+	
+	
+	public static void registerRenders(){
+		
+		registerRender(DigiBlock);
+	}
+	
+	
+	public static void registerRender(Block block){
+	
+	Item item = Item.getItemFromBlock(block);
+	
+	Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(item, 0, new ModelResourceLocation(Reference.MOD_ID + ":" + item.getUnlocalizedName().substring(5),"inventory"));
+
+	
+	}
+}

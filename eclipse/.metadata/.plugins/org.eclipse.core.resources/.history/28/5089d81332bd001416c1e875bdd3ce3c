@@ -1,0 +1,13 @@
+package com.digitaleducationadventures.digimod;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class BlockExtender extends Block{
+
+	public BlockExtender(Material materialIn){
+		
+		super(materialIn);
+	}
+
+}

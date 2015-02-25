@@ -1,0 +1,16 @@
+package com.digitaleducationadventures.digimod.proxy;
+
+import com.digitaleducationadventures.digimod.init.DigiBlocks;
+import com.digitaleducationadventures.digimod.init.DigiItems;
+
+public class ClientProxy extends CommonProxy{
+
+	@Override
+	public void registerRenders(){
+	
+			DigiItems.registerRenders();
+		//	DigiBlocks.registerRenders();
+	
+	}
+	
+}

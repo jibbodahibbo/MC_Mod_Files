@@ -1,0 +1,39 @@
+[18:56:05] [Client thread/INFO]: Setting user: Player69
+[18:56:06] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:56:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Digital Adventures Mod
+[18:56:09] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:56:09] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[18:56:09] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:56:09] [Thread-7/INFO]: OpenAL initialized.
+[18:56:10] [Sound Library Loader/INFO]: Sound engine started
+[18:56:11] [Client thread/INFO]: Created: 512x512 textures-atlas
+[18:56:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Digital Adventures Mod
+[18:56:12] [Client thread/INFO]: SoundSystem shutting down...
+[18:56:12] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:56:12] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:56:12] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[18:56:12] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:56:12] [Thread-9/INFO]: OpenAL initialized.
+[18:56:13] [Sound Library Loader/INFO]: Sound engine started
+[18:56:14] [Client thread/INFO]: Created: 512x512 textures-atlas
+[18:56:17] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[18:56:17] [Server thread/INFO]: Generating keypair
+[18:56:17] [Server thread/INFO]: Preparing start region for level 0
+[18:56:18] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:56:19] [Server thread/INFO]: Player69[local:E:471a0a6e] logged in with entity id 118 at (358.52071137991635, 74.0, 186.40288035200717)
+[18:56:19] [Server thread/INFO]: Player69 joined the game
+[18:56:21] [Server thread/INFO]: Player69 has just earned the achievement [Taking Inventory]
+[18:56:22] [Client thread/INFO]: [CHAT] Player69 has just earned the achievement [Taking Inventory]
+[18:56:27] [Server thread/INFO]: Saving and pausing game...
+[18:56:27] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:56:27] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:56:27] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:56:58] [Client thread/INFO]: Stopping!
+[18:56:58] [Client thread/INFO]: SoundSystem shutting down...
+[18:56:58] [Server thread/INFO]: Stopping server
+[18:56:58] [Server thread/INFO]: Saving players
+[18:56:58] [Server thread/INFO]: Saving worlds
+[18:56:58] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:56:58] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:56:58] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:56:58] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

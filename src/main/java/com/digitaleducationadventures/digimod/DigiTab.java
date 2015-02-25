@@ -1,0 +1,25 @@
+package com.digitaleducationadventures.digimod;
+
+import com.digitaleducationadventures.digimod.init.DigiBlocks;
+import com.digitaleducationadventures.digimod.init.DigiItems;
+
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+
+public class DigiTab extends CreativeTabs {
+
+
+	public DigiTab(int index, String label) {
+		super(label);
+	}
+
+
+	@Override
+	public Item getTabIconItem() {
+		return Item.getItemFromBlock(DigiBlocks.DigiBlock);
+		// return DigiItems.DigiFood;
+	}
+
+}
+
+

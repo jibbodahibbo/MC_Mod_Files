@@ -1,0 +1,12 @@
+package com.digitaleducationadventures.digimod.item;
+
+import net.minecraft.item.ItemPickaxe;
+
+public class ItemDigiPickAxe extends ItemPickaxe{
+
+	public ItemDigiPickAxe(ToolMaterial material) {
+		super(material);
+		// TODO Auto-generated constructor stub
+	}
+
+}
